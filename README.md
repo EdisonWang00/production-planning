@@ -3,10 +3,10 @@
 *Implement the Wagner-Whitin algorithm to minimize the total costs of production given a set of constraints*
 
 
-### Objective
+# Objective
 Use python to design an optimal production plan to meet customer demand and minimize the total production costs.
 
-### Scenario
+# Scenario
 
 You are a production planning manager in a small factory producing radio equipment that serves local and international markets.
 
@@ -19,7 +19,7 @@ Your role is to schedule production to deliver on time with a minimum total cost
 - Holding Costs: cost of storage per unit per time
 - In our example, the customer ordered products for the next 12 months
 
-#### Wagner-Whitin Algorithm
+# Wagner-Whitin Algorithm
 This problem can be seen as a generalization of the economic order quantity model that takes into account that demand for the product varies over time.
 
 Wagner and Whitin developed an algorithm for finding the optimal solution by dynamic programming.
