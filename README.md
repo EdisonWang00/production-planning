@@ -1,10 +1,6 @@
-# production-planning
-
-*Implement the Wagner-Whitin algorithm to minimize the total costs of production given a set of constraints*
-
 
 # Objective
-Use python to design an optimal production plan to meet customer demand and minimize the total production costs.
+Use python to design an optimal production plan to meet customer demand and minimize the total production costs.*Implement the Wagner-Whitin algorithm to minimize the total costs of production given a set of constraints*
 
 # Scenario
 
